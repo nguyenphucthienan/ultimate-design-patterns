@@ -1,4 +1,4 @@
-package iterator;
+package iterator.array;
 
 public class Main {
 

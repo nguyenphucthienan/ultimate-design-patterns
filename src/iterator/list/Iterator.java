@@ -1,4 +1,4 @@
-package iterator;
+package iterator.list;
 
 public interface Iterator<T> {
 
